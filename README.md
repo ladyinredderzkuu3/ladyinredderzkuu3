@@ -1,15 +1,16 @@
-# Einführung
-Hallo! Ich bin Ladyinredderzkuu3, eine leidenschaftliche Entwicklerin mit einem Fokus auf innovative Technologien.
+# ladyinredderzkuu3
 
-# Fähigkeiten
-- Programmiersprachen: JavaScript, Python, Java
-- Webentwicklung: HTML, CSS, React
-- Datenbanken: MySQL, MongoDB
+**Thema:** cybersecurity
 
-# Projekte
-- **Portfolio-Website**: Ein persönliches Projekt, das meine Arbeiten präsentiert.
-- **ToDo-App**: Eine einfache Anwendung zur Aufgabenverwaltung.
+## Über mich
+Fokus auf cybersecurity.
 
-# Kontakte
-- E-Mail: ladyinredderzkuu3@example.com
-- LinkedIn: [LinkedIn-Profil](https://www.linkedin.com/in/ladyinredderzkuu3)
+## Tech
+- Python · Git · CI/CD
+- - security
+- cybersecurity
+- infosec
+- pentest
+
+## Links
+- Profil: https://github.com/ladyinredderzkuu3
